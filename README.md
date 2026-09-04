@@ -24,7 +24,7 @@
 
 ## 🚀 Projects
 - 📁 **[YouTube Video Downloader](https://github.com/noobuser978-gif/Youtube-Video-Downloader)** - A lightweight, web-based downloader built with FastAPI and `yt-dlp` for downloading video and audio via a clean interface.
-- 📁 **[C2 Keylogger](https://github.com/noobuser978-gif/C2-Keylogger)** - A lightweight, cross-platform Command & Control (C2) system built with Python and FastAPI that logs keystrokes and polls for remote commands.
+- 📁 **[ESP32-WiFi-Scanner](https://github.com/E-corp-code/ESP32-WiFi-Scanner)** - A lightweight, real-time Wi-Fi network scanner written in MicroPython for ESP32, ESP8266, and ESP32-S3 (including the N16R8 variant).
 
 ## 📊 Stats
 <p align="center">
