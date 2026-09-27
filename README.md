@@ -14,7 +14,7 @@
 * 🐍 **Primary Language:** Python for development, scripting, and technical projects.
 * 🌐 **Web Development:** Building and working with web-based applications and personal projects.
 * 🔧 **Hands-On Work:** Developing projects, testing ideas in controlled environments, and documenting my technical work.
-* 📫 **Contact:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
+* 📫 **Contact:** [noobuser978@gmail.com](mailto:noobuser978@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -39,8 +39,8 @@
 
 ## 🏆 Achievement
 
-* 🏅 **[YOUR ACHIEVEMENT NAME]**
-  [Short description of your achievement.]
+* 🏅 **QuickDraw**
+  - Gitty up!
 
 ## 📚 Current Focus
 
@@ -55,16 +55,16 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/rajbir-yadav-3500233a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://rynodesec.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="YOUR_FACEBOOK_URL">
+  <a href="https://www.facebook.com/profile.php?id=61578369796208">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:nooduser978@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
